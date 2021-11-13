@@ -52,12 +52,11 @@ PVPWarn loads a default profile based on your class when the addon loads for the
 
 Once a profile is created in can be loaded manually or with a macro.
 
-```lua
-/run _G["RGPVPW_MACRO_LOADPROFILE"]("[profileName")
+`/run _G["RGPVPW_MACRO_LOADPROFILE"]("[profileName")`
 
--- e.g.
-/run _G["RGPVPW_MACRO_LOADPROFILE"]("Warriorprofile")
-```
+Example:
+
+`/run _G["RGPVPW_MACRO_LOADPROFILE"]("Warriorprofile")`
 
 ## FAQ
 
