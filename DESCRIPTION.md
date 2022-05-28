@@ -2,7 +2,13 @@
 &nbsp;  
 ![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/ragedunicorn_love_classic_and_tbc.png)
 &nbsp;  
-_PVPWarn aims to help the player to hear and see enemy spells casted on himself and also spells that an enemy player resisted or spells that the player himself resisted_
+_PVPWarn aims to help the player to hear and see enemy spells cast on himself and also spells that an enemy player resisted or spells that the player himself resisted_
+
+## Providers
+
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pvpwarn)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pvpwarn)
+
 
 ## What is PVPWarn?
 
@@ -34,7 +40,7 @@ PVPWarn can also detect when certain spells where either resisted by the player 
 
 #### Self Avoid
 
-The avoid tab allows the configuration of warnings for all spells of a certain category. If you're interested in knowing when you resist a certain spells such as the silence of a shadow priest you will configurate this in the priest category.
+The avoid tab allows the configuration of warnings for all spells of a certain category. If you're interested in knowing when you resist a certain spells such as the silence of a shadow priest you will configure this in the priest category.
 
 ![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/pvpwarn_configure_self_avoid.gif)
 
@@ -46,7 +52,7 @@ To configure the resist warning for your own class use the `Enemy Avoid` navigat
 
 ### Profiles
 
-PVPWarn loads a default profile based on your class when the addon loads for the first time. The default profile can be loaded again at any point. If you however start modifying what spells are tracked you can create a new profile or you can even have multiple different profiles that you can then load based on your situation.
+PVPWarn loads a default profile based on your class when the addon loads for the first time. The default profile can be loaded again at any point. If you however start modifying what spells are tracked you can create a new profile, or you can even have multiple different profiles that you can then load based on your situation.
 
 #### Loading Profiles with Macros
 
@@ -66,13 +72,9 @@ The addon can be configured to automatically enable or disable in certain zones.
 
 ## FAQ
 
-#### The Addon is not showing up in WoW. What can I do?
-
-Make sure to recheck the installation part of this Readme and check that the Addon is placed inside `[WoW-installation-directory]\Interface\AddOns` and is correctly named as `PVPWarn`.
-
 #### I get a red error (Lua Error) on my screen. What is this?
 
-This is what we call a Lua error and it usually happens because of an oversight or error by the developer (in this case me). Take a screenshot off the error and create a Github Issue with it and I will see if I can resolve it. It also helps if you can add any additional information of what you we're doing at the time and what other addons you have active. Also if you are able to reproduce the error make sure to check if it still happens if you disable all others addons.
+This is what we call a Lua error, and it usually happens because of an oversight or error by the developer (in this case me). Take a screenshot off the error and create a GitHub Issue with it, and I will see if I can resolve it. It also helps if you can add any additional information of what you were doing at the time and what other addons you have active. Additionally, if you are able to reproduce the error make sure to check if it still happens if you disable all others addons.
 
 #### PVPWarn did not warn me about a certain spell. Why?
 
@@ -80,4 +82,4 @@ This can have multiple errors. It might be an actual bug where the addon did not
 
 #### PVPWarn does not support my Spell. What can I do?
 
-PVPWarn is not complete and certain spells might have simply forgotten. If you have a certain spell that you would like to see supported in a future version of the addon make sure to create a ticket for it and I will have a  look at it.
+PVPWarn is not complete and certain spells might have simply forgotten. If you have a certain spell that you would like to see supported in a future version of the addon make sure to create a ticket for it, and I will have a  look at it.
