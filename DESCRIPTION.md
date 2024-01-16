@@ -1,6 +1,6 @@
 # PVPWarn
 &nbsp;  
-![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/ragedunicorn_love_classic_and_tbc.png)
+![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/pvpwarn_ragedunicorn_love_classic.png)
 &nbsp;  
 _PVPWarn aims to help the player to hear and see enemy spells cast on himself and also spells that an enemy player resisted or spells that the player himself resisted_
 
