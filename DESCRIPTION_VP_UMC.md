@@ -6,8 +6,8 @@ _Voice pack addon for PVPWarn featuring Undead Male voice alerts for WoW Classic
 
 ## Providers
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/curseforge.svg)](TODO)
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/wago.svg)](TODO)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pvpwarn-vpumc)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pvpwarn-vpumc)
 
 This voice pack provides Undead Male voice alerts for the [PVPWarn](https://github.com/RagedUnicorn/wow-classic-pvpwarn) addon. All combat alerts will use the Undead Male voice instead of the default sounds.
 
