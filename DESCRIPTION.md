@@ -14,12 +14,9 @@ _PVPWarn aims to help the player to hear and see enemy spells cast on himself an
 
 PVPWarns goal is to help the player recognizing combat log events in a more visual and acoustical way. PVPWarn can display visual and acoustical cues when a certain event is found in the combat log. As an example PVPWarn might play a sound both when an enemy warrior activates recklessness and when it runs out.
 
-## Issues
 
+## Source/Issues
 [![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/issues.svg)](https://github.com/RagedUnicorn/wow-classic-pvpwarn/issues)
-
-## Source
-
 [![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/source.svg)](https://github.com/RagedUnicorn/wow-classic-pvpwarn)
 
 ## Features of PVPWarn
