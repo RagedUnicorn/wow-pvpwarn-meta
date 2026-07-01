@@ -1,6 +1,6 @@
 # PVPWarn
 &nbsp;  
-![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/pvpwarn_ragedunicorn_love_classic.png)
+![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/ragedunicorn_wow_banner.png)
 &nbsp;  
 _PVPWarn aims to help the player to hear and see enemy spells cast on himself and also spells that an enemy player resisted or spells that the player himself resisted_
 
@@ -16,15 +16,11 @@ PVPWarns goal is to help the player recognizing combat log events in a more visu
 
 ## Issues
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/issues_classic.svg)](https://github.com/RagedUnicorn/wow-classic-pvpwarn/issues) **Classic**
-
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/issues_bcc.svg)](https://github.com/RagedUnicorn/wow-bcc-pvpwarn/issues) **Burning Crusade Classic**
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/issues.svg)](https://github.com/RagedUnicorn/wow-classic-pvpwarn/issues)
 
 ## Source
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/source_classic.svg)](https://github.com/RagedUnicorn/wow-classic-pvpwarn) **Classic**
-
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/source_bcc.svg)](https://github.com/RagedUnicorn/wow-bcc-pvpwarn) **Burning Crusade Classic**
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/source.svg)](https://github.com/RagedUnicorn/wow-classic-pvpwarn)
 
 ## Features of PVPWarn
 
