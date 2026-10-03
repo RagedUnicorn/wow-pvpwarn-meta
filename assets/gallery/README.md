@@ -1,8 +1,8 @@
 # Gallery Images
 
 Static overview images for the PVPWarn pages on
-[wago.io](https://addons.wago.io/addons/pvpwarn/gallery) and
-[CurseForge](https://www.curseforge.com/wow/addons/pvpwarn). They give visitors a quick
+[wago.io](https://addons.wago.io/addons/pvpwarn-rg/gallery) and
+[CurseForge](https://www.curseforge.com/wow/addons/pvpwarn-rg). They give visitors a quick
 visual summary of PVPWarn's warning configuration and its two visual warning channels
 straight from the gallery/screenshot strip - the animated demos and the full context live in
 the project's main `README.md` and in `DESCRIPTION.md`. This rarely needs updating; this

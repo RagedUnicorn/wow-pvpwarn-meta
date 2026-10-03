@@ -6,8 +6,8 @@ _PVPWarn aims to help players hear and see enemy spells cast on them, as well as
 
 ## Providers
 
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pvpwarn)
-[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pvpwarn)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/curseforge.svg)](https://www.curseforge.com/wow/addons/pvpwarn-rg)
+[![](https://raw.githubusercontent.com/RagedUnicorn/wow-pvpwarn-meta/master/assets/wago.svg)](https://addons.wago.io/addons/pvpwarn-rg)
 
 ## What is PVPWarn?
 
